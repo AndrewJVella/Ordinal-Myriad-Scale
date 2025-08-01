@@ -28,9 +28,9 @@ What? There are rules? Yes. While naming numbers should be fun, the "Googology" 
   * Primitive numbers are a small group of cardinal numbers with names that are not defined in terms of other numbers. Examples include: zero, one, two, three, four, five, six, seven, eight, nine, ten, (one) hundred, (one) thousand, (one) myriad. Constructed numbers include: two-hundred, twenty-five, two-hundred-twenty-five, and five-hundred-twenty-five-thousand-six-hundred. All of the "-illion" numbers are constructed with the Latin prefix.
 
 * Schemes for constructing numbers should be based on the names of primitive numbers in (spoken or written) language. 
-  * "Abcdefg" could be the name of some large number in some alphabetic counting system (one hundred is "a", the square of that "b", the 26th "z", the 27th "aa", and so on). Such a scheme breaks this rule, because  such as "Abcedefg" is only defined when "a" is defined (as some arbitrary number). In other words, names should be mapped to numeric values, not to a floating pointer like "a". 
+  * "Abcdefg" could be the name of some large number in some alphabetic counting system (one hundred is "a", the square of that "b", the 26th "z", the 27th "aa", and so on). Such a scheme breaks this rule, because "Abcedefg" is only defined when "a" is defined (as some arbitrary number). In other words, names should be mapped to numeric values, not to a floating pointer like "a". 
 
-* Using alphabetically constructed numbers is acceptable if two criteria are met. First, the alphabet is commonly used for communication. Second, the number is commonly used for counting. 
+* Using alphabetically constructed numbers is acceptable if two criteria are met. First, the alphabet is commonly used. Second, the number is commonly used. 
   * Suppose a letter's position in the alphabet denoted an exponent, such that "Myriad-Beta" denoted the square of a myriad, "Myriad-Gamma" the third, and so on. The myriad is always equal to ten to the fourth. Every alphabetic number is a power of the base "myriad" and is therefore always equal to a constant numeric value. 
   * For counterexamples, try defining numbers with a contrived nonsense alphabet, a contrived nonsense number, or even both. "Myriad-Zaphele" or "Garillon-Omega" are almost certainly not numbers by a reasonable standard, but "Garillion-Zaphele" certainly is not.
 
