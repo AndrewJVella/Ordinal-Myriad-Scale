@@ -87,7 +87,7 @@ If you would rather not say "myriad" so often, just drop the word altogether. fo
 
 ### "Ordinal" Denotations: Counting Beyond Powers of the Myriad
 Now, once you reach the Myriadth Myriad, things start getting a bit repetitive. The square of the Myriadth Myriad is the "Second Myriadth Myriad", and from this the "Myriadth Myriadth Myriad" is derived, which is followed by more repeating ordinals. For a band-aid solution, we can use a little Ancient Greek and an adjective. Let's call the "Myriadth Myriad" the "Ordinal Myriad", from "ordinal".
-The "Myriadth, Myriadth Myriad" can be called the "Diordinal Myriad" because it is named with two "Myriadth" ordinals. From this a myriad of a myriad "myriadths" can be accounted for, and named "Myriodic Myriad". 
+The "Myriadth, Myriadth Myriad" can be called the "Diordinal Myriad" because it is named with two "Myriadth" ordinals. From this a myriad of a myriad "myriadths" can be accounted for, and named "Myriodinal Myriad". 
 
 The following tables demonstrate how to count to Myriordinal Myriad:
 
